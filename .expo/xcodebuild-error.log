@@ -1,0 +1,16 @@
+2023-09-26 13:29:24.779 xcodebuild[13447:147958] DVTCoreDeviceEnabledState: DVTCoreDeviceEnabledState_Disabled set via user default (DVTEnableCoreDevice=disabled)
+2023-09-26 13:29:25.554 xcodebuild[13447:147958] Writing error result bundle to /var/folders/_8/85nbjscj3q99y2fx7c1rbkn00000gq/T/ResultBundle_2023-26-09_13-29-0025.xcresult
+xcodebuild: error: Unable to find a destination matching the provided destination specifier:
+		{ id:E32DC593-2FEF-4F45-ADEF-8AF4562BB520 }
+
+	Available destinations for the "rnplayer-tvOS" scheme:
+		{ platform:tvOS, id:dvtdevice-DVTiOSDevicePlaceholder-appletvos:placeholder, name:Any tvOS Device }
+		{ platform:tvOS Simulator, id:dvtdevice-DVTiOSDeviceSimulatorPlaceholder-appletvsimulator:placeholder, name:Any tvOS Simulator Device }
+		{ platform:tvOS Simulator, id:38305F48-B90D-4E58-96A8-B87C24FA39F6, OS:16.1, name:Apple TV }
+		{ platform:tvOS Simulator, id:38305F48-B90D-4E58-96A8-B87C24FA39F6, OS:16.1, name:Apple TV }
+		{ platform:tvOS Simulator, id:439C9B97-AD92-4ED7-9A01-114AA26DDB97, OS:16.4, name:Apple TV 4K (3rd generation) }
+		{ platform:tvOS Simulator, id:439C9B97-AD92-4ED7-9A01-114AA26DDB97, OS:16.4, name:Apple TV 4K (3rd generation) }
+		{ platform:tvOS Simulator, id:9350EBAE-2470-43E3-9709-32960FC5737A, OS:16.1, name:Apple TV 4K (3rd generation) (at 1080p) }
+		{ platform:tvOS Simulator, id:9350EBAE-2470-43E3-9709-32960FC5737A, OS:16.1, name:Apple TV 4K (3rd generation) (at 1080p) }
+		{ platform:tvOS Simulator, id:95ED5BD5-9D24-48AB-8A42-5D588A73AF9F, OS:16.4, name:MyAppleTV }
+		{ platform:tvOS Simulator, id:95ED5BD5-9D24-48AB-8A42-5D588A73AF9F, OS:16.4, name:MyAppleTV }

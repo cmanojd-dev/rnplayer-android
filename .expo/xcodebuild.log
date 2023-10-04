@@ -1,0 +1,6 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -workspace /Users/manoj-chaudhary-us/RNPlayerLW/rnplayer/ios/rnplayer.xcworkspace -configuration Debug -scheme rnplayer-tvOS -destination id=E32DC593-2FEF-4F45-ADEF-8AF4562BB520
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+
